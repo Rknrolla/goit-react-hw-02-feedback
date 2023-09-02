@@ -1,0 +1,7 @@
+.container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 33px;
+    color: '#010101';
+}
